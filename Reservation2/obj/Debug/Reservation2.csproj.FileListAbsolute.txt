@@ -1,0 +1,13 @@
+C:\Users\ARİF\Source\Repos\Reservation2\Reservation2\bin\Debug\Reservation2.exe.config
+C:\Users\ARİF\Source\Repos\Reservation2\Reservation2\bin\Debug\Reservation2.exe
+C:\Users\ARİF\Source\Repos\Reservation2\Reservation2\bin\Debug\Reservation2.pdb
+C:\Users\ARİF\Source\Repos\Reservation2\Reservation2\bin\Debug\DAL.dll
+C:\Users\ARİF\Source\Repos\Reservation2\Reservation2\bin\Debug\DAL.pdb
+C:\Users\ARİF\Source\Repos\Reservation2\Reservation2\obj\Debug\Reservation2.csprojAssemblyReference.cache
+C:\Users\ARİF\Source\Repos\Reservation2\Reservation2\obj\Debug\Reservation2.Form1.resources
+C:\Users\ARİF\Source\Repos\Reservation2\Reservation2\obj\Debug\Reservation2.Properties.Resources.resources
+C:\Users\ARİF\Source\Repos\Reservation2\Reservation2\obj\Debug\Reservation2.csproj.GenerateResource.cache
+C:\Users\ARİF\Source\Repos\Reservation2\Reservation2\obj\Debug\Reservation2.csproj.CoreCompileInputs.cache
+C:\Users\ARİF\Source\Repos\Reservation2\Reservation2\obj\Debug\Reservation2.csproj.CopyComplete
+C:\Users\ARİF\Source\Repos\Reservation2\Reservation2\obj\Debug\Reservation2.exe
+C:\Users\ARİF\Source\Repos\Reservation2\Reservation2\obj\Debug\Reservation2.pdb
